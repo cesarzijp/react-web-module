@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/losstaande-ai-client/static/js/main.f44e4b81.js",
+    "index.html": "/losstaande-ai-client/index.html",
+    "main.f44e4b81.js.map": "/losstaande-ai-client/static/js/main.f44e4b81.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.f44e4b81.js"
+  ]
+}
